@@ -92,7 +92,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gagan-Gautam-02/Gagan-Gautam-02/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=Gagan-Gautam-02" alt="Snake animation" />
 
 ###
 
